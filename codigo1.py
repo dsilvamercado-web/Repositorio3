@@ -1,1 +1,1 @@
-print ("lo q sea prueba 2 3")
+lo q sea prueba 2
